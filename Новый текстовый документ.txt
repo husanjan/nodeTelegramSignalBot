@@ -1,0 +1,5 @@
+6005346695:AAG4ZmGGvvUWII2CpCQpGLCJYuQKkpbD8_k
+npm init
+npm install --save node-telegram-bot-api
+Markdown format text send
+
